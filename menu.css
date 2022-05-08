@@ -1,0 +1,91 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("");
+    background-color: #d2691e;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #a52a2a;
+    margin: 0 0 5px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  .botao01 {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 80px;
+    /*definimos a largura do box*/
+    width: 300px;
+    /* definimos a altura do box */
+    height: 100px;
+    /* definimos a cor de fundo do box */
+    background-color: #5f9ea0;
+    /* definimos o quão arredondado irá ficar nosso box */
+    border-style: solid;
+  }
+  
+  .botao02 {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 80px;
+    /*definimos a largura do box*/
+    width: 300px;
+    /* definimos a altura do box */
+    height: 100px;
+    /* definimos a cor de fundo do box */
+    background-color: #5f9ea0;
+    border-style: solid;
+  }
+  
+  .botao03 {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 80px;
+    /*definimos a largura do box*/
+    width: 300px;
+    /* definimos a altura do box */
+    height: 100px;
+    /* definimos a cor de fundo do box */
+    background-color: #5f9ea0;
+    border-style: solid;
+  }
+  .botao04 {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 80px;
+    /*definimos a largura do box*/
+    width: 300px;
+    /* definimos a altura do box */
+    height: 100px;
+    /* definimos a cor de fundo do box */
+    background-color: #5f9ea0;
+    border-style: solid;
+  }
+  .botao05 {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 80px;
+    /*definimos a largura do box*/
+    width: 300px;
+    /* definimos a altura do box */
+    height: 100px;
+    /* definimos a cor de fundo do box */
+    background-color: #5f9ea0;
+    border-style: solid;
+  }
+  
